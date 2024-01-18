@@ -1,2 +1,2 @@
 # this is test
-print('hello Git')
+print('hello world')
